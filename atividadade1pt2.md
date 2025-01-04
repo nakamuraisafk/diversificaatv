@@ -1,18 +1,18 @@
-## Algoritmo para Lavar Roupas 🧺
+# Algoritmo para Lavar Roupas 🧺
 
-Este é um passo a passo sobre o processo de lavar roupas. 
-
-- 🧳 Separar as roupas por cor e tipo de tecido.
-- 🧴 Colocar detergente na máquina.
-- 💧 Adicionar amaciante (opcional).
-- 🧺 Carregar as roupas na máquina de lavar.
-- ⚙️ Escolher o programa de lavagem e temperatura.
-- 🌊 Iniciar a lavagem.
-- 🧼 Aguardar a lavagem terminar.
-- 🌀 Centrifugar as roupas.
-- 🌊 Enxaguar as roupas.
-- ✅ Finalizar o ciclo de lavagem.
-- 👚 Retirar as roupas da máquina.
-- 🌞 Secar as roupas.
-- 🧹 Limpar a máquina.
-
+- Abra a tampa ou a porta da máquina de lavar. 🚪
+- Separe as roupas por cor e tipo de tecido. 🧳
+- Coloque detergente na máquina. 🧴
+- Adicione amaciante, se desejar (opcional). 💧
+- Carregue as roupas na máquina de lavar. 🧺
+- Feche a tampa ou porta da máquina com cuidado. 🔒
+- Escolha o programa de lavagem e ajuste a temperatura. ⚙️
+- Inicie o ciclo de lavagem. 🌊
+- Aguarde a lavagem terminar. ⏳
+- A máquina irá centrifugar as roupas. 🌀
+- A máquina fará o enxágue das roupas. 🌊
+- Quando o ciclo terminar, finalize o processo. ✅
+- Abra a máquina e retire as roupas. 👚
+- Coloque as roupas para secar. 🌞
+- Limpe o filtro e o compartimento de detergente da máquina. 🧹
+- Feche a tampa ou porta da máquina após a limpeza. 🔒
