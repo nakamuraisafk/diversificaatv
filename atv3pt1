@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paramore - After Laughter</title>
+</head>
+
+<body>
+  <h1>After Laughter</h1>
+  <h2>Paramore</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/pt/9/9b/After_Laughter_Paramore_album_cover.png" alt="Capa do álbum After Laughter" width="300">
+  <ol>
+    <li>Hard Times</li>
+    <li>Rose-Colored Boy</li>
+    <li>Fake Happy</li>
+    <li>Swimming</li>
+    <li>Clay</li>
+    <li>Grudges</li>
+    <li>Caught in the Middle</li>
+    <li>Idle Worship</li>
+    <li>No Friend</li>
+    <li>Tell Me How</li>
+  </ol>
+</body>
+
+</html>
