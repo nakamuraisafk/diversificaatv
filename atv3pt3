@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- Definindo a codificação de caracteres e o título da página -->
+    <meta charset="UTF-8">
+    <title>Formulário de Registro</title>
+</head>
+<body>
+    <!-- Cabeçalho da página, título principal -->
+    <h1>Formulário de Registro</h1>
+
+    <!-- Início do formulário. A ação é "#" porque o formulário não vai para lugar algum por enquanto -->
+    <form action="#" method="POST">
+        
+        <!-- Campo para o nome -->
+        <label for="name">Nome:</label><br>
+        <input type="text" id="name" name="name"><br><br>
+
+        <!-- Campo para o email -->
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+
+        <!-- Campo para a senha -->
+        <label for="password">Senha:</label><br>
+        <input type="password" id="password" name="password"><br><br>
+
+        <!-- Campo para a idade -->
+        <label for="age">Idade:</label><br>
+        <input type="number" id="age" name="age"><br><br>
+
+        <!-- Opções de escolaridade usando botões de rádio -->
+        <label for="education">Escolaridade:</label><br>
+        <input type="radio" id="fundamental" name="education" value="fundamental">
+        <label for="fundamental">Fundamental</label><br>
+        
+        <input type="radio" id="medio" name="education" value="medio">
+        <label for="medio">Médio</label><br>
+        
+        <input type="radio" id="superior" name="education" value="superior">
+        <label for="superior">Superior</label><br><br>
+
+        <!-- Caixa de seleção para aceitar os termos de uso -->
+        <label for="terms">Aceito os termos de uso:</label>
+        <input type="checkbox" id="terms" name="terms"><br><br>
+
+        <!-- Botão para enviar o formulário -->
+        <button type="submit">Registrar</button>
+    </form>
+</body>
+</html>
