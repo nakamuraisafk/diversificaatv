@@ -1,0 +1,100 @@
+div {
+  padding: 20px;
+  margin: 20px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.5);
+  border-width: 5px;
+  border-radius: 16px;
+  font-family: "Arial", sans-serif;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+.div1 {
+  background-color: aquamarine;
+  width: 300px;
+  height: auto;
+  min-height: 200px;
+  overflow: hidden;
+}
+
+.div1 h1,
+.div1 p {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: whitesmoke;
+}
+
+.div1 h1 {
+  color: darkblue;
+  font-size: 24px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  background-color: whitesmoke;
+}
+
+.div1 p {
+  color: darkblue;
+  font-size: 18px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+}
+
+.div2 {
+  background-image: url("fundo-div.svg");
+  background-size: cover;
+  background-position: center;
+  width: 400px;
+  height: auto;
+  min-height: 250px;
+  overflow: hidden;
+  background-color: whitesmoke;
+}
+
+.div2 h1,
+.div2 p {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: whitesmoke;
+}
+
+.div2 h1 {
+  color: #9b5ee6;
+  font-size: 24px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  background-color: whitesmoke;
+}
+
+.div2 p {
+  color: #9b5ee6;
+  font-size: 18px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  background-color: whitesmoke;
+}
+
+.div3 {
+  background: linear-gradient(to right, deeppink, tomato);
+  width: 250px;
+  height: auto;
+  min-height: 350px;
+  overflow: hidden;
+  background-color: whitesmoke;
+}
+
+.div3 h1,
+.div3 p {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: whitesmoke;
+}
+
+.div3 h1 {
+  color: darkmagenta;
+  font-size: 24px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  background-color: whitesmoke;
+}
+
+.div3 p {
+  color: darkmagenta;
+  font-size: 18px;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+}
